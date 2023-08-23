@@ -82,5 +82,9 @@
   "14528550255": {
     "Name": "Stone",
     "Tags": ["lowpoly", "stone", "enviroment", "simulator"]
+  },
+  "14542319716": {
+    "Name": "Garbage",
+    "Tags": ["trash", "lowpoly", "enviroment", "simulator", "build"]
   }
 }
