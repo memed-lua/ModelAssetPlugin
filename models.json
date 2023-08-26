@@ -85,6 +85,10 @@
   },
   "14542319716": {
     "Name": "Garbage",
-    "Tags": ["trash", "lowpoly", "enviroment", "simulator", "build"]
+    "Tags": ["garbage", "trash", "lowpoly", "enviroment", "simulator", "build"]
+  },
+  "14578988697": {
+    "Name": "Couch",
+    "Tags": ["couch", "lowpoly", "building", "build", "sofa", "cute", "childish"]
   }
 }
